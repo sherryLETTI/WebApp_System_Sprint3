@@ -1,0 +1,123 @@
+{
+	"lecturer": [{
+			"id": "1",
+			"firstname": "Elmar",
+			"lastname": "Krainz",
+			"department": "Angewandte Informatik",
+			"office": "012",
+			"worktime": "Fulltime"
+		},
+		{
+			"id": "2",
+			"firstname": "Ulm",
+			"lastname": "Michael",
+			"department": "Angewandte Informatik",
+			"office": "013",
+			"worktime": "Fulltime"
+		},
+		{
+			"id": "3",
+			"firstname": "Andreas",
+			"lastname": "Öffl",
+			"department": "Angewandte Informatik",
+			"office": "206",
+			"worktime": "Fulltime"
+		},
+		{
+			"id": "4",
+			"firstname": "Roxane",
+			"lastname": "Koitz-Hristov",
+			"department": "Angewandte Informatik",
+			"office": "",
+			"worktime": "Halftime"
+		},
+		{
+			"id": "5",
+			"firstname": "Lukas",
+			"lastname": "Eberhard",
+			"department": "Angewandte Informatik",
+			"office": "",
+			"worktime": "Halftime"
+		},
+		{
+			"id": "6",
+			"firstname": "Michaela",
+			"lastname": "Kofler",
+			"department": "Bauen, Energie & Gesellschaft",
+			"office": "301",
+			"worktime": "Fulltime"
+		},
+		{
+			"id": "7",
+			"firstname": "Uwe",
+			"lastname": "Trattnig",
+			"department": "Bauen, Energie & Gesellschaft",
+			"office": "124",
+			"worktime": "Fulltime"
+		},
+		{
+			"id": "8",
+			"firstname": "Gertraud",
+			"lastname": "Pantucek",
+			"department": "Bauen, Energie & Gesellschaft",
+			"office": "216",
+			"worktime": "fulltime"
+		},
+		{
+			"id": "9",
+			"firstname": "Hans",
+			"lastname": "Aubauer",
+			"department": "Managment",
+			"office": "",
+			"worktime": "Halftime"
+		},
+		{
+			"id": "10",
+			"firstname": "Michael",
+			"lastname": "Murg",
+			"department": "Managment",
+			"office": "416",
+			"worktime": "Fulltime"
+		},
+		{
+			"id": "11",
+			"firstname": "Christian",
+			"lastname": "Friedl",
+			"department": "Managment",
+			"office": "406",
+			"worktime": "Fulltime"
+		},
+		{
+			"id": "12",
+			"firstname": "Kurt",
+			"lastname": "Steiner",
+			"department": "Engineering",
+			"office": "134",
+			"worktime": "Fulltime"
+		},
+		{
+			"id": "13",
+			"firstname": "Christian",
+			"lastname": "Vogel",
+			"department": "Engineering",
+			"office": "147",
+			"worktime": "Fulltime"
+		},
+		{
+			"id": "14",
+			"firstname": "Holger",
+			"lastname": "Friehmelt",
+			"department": "Engineering",
+			"office": "149",
+			"worktime": "Fulltime"
+		},
+		{
+			"id": "15",
+			"firstname": "Heinz",
+			"lastname": "Fischer",
+			"department": "Medien & Design",
+			"office": "011",
+			"worktime": "Fulltime"
+		}
+	]
+}
