@@ -73,7 +73,7 @@ function getForm(notes, id) {
                 <span id="lblErrorWorktime" style="color: red"></span>
             </div>
             <br>
-            <button type="submit" id="save">Speichern</button><button type="reset" id="reset">Zurücksetzen</button>
+            <button type="submit" id="save">Speichern</button><button type="reset" id="reset" onclick="return confirm('Wollen Sie wirklich alle Einträge zurücksetzen?')">Zurücksetzen</button>
 			
 			<script>
 				function validateForm() {
