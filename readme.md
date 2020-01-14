@@ -1,4 +1,4 @@
-# Sprint 2 - Gruppe Sprintify (5)
+# Sprint 3 - Gruppe Sprintify (5)
 
 ## Beschreibung
 Diese Webapplication wurde im Rahmen der FH Lehrveranstaltung Webapplication entwickelt. Vortragende, die in einem JSON-File gespeichert sind, können gesucht, bearbeitet und gelöscht werden.
