@@ -107,13 +107,19 @@ function getForm(notes, id) {
 				
 				function checkInputLetters(e, label) {
 				    var keyCode = e.keyCode || e.which;
-				    var labelError = document.getElementById(label);             
-                    
-                    var regex = /^[A-Za-zÜÖÄüöäß]+$/;
-                    
+				    var labelError = document.getElementById(label); 
+				    
+				    if(label.includes("lblErrorDepartment")) {
+				        var regex = /^[A-Za-zÜÖÄüöäß ]+$/;     
+				        var text = "Es sind nur Buchstaben/Leerzeichen erlaubt."
+                    } else {
+                        var regex = /^[A-Za-zÜÖÄüöäß]+$/;
+                        var text = "Es sind nur Buchstaben erlaubt.";
+                    }
+				    
                     var isValid = regex.test(String.fromCharCode(keyCode));
                     if (!isValid) {
-                        labelError.innerHTML = "Es sind nur Buchstaben erlaubt.";
+                        labelError.innerHTML = text;
                     } else {
                         labelError.innerHTML = "";
                     }

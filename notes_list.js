@@ -96,8 +96,8 @@ function createRow(note) {
         <td>${note.department}</td>
         <td>${note.office}</td>
         <td>${note.worktime}</td>
-        <td><a href="/delete/${note.id}"><img class="icon" src="/images/delete.png" alt="delete note" title="delete note" onclick="return confirm('Wollen Sie wirklich löschen?');"/></a></td>
-        <td><a href="/edit/${note.id}"><img class="icon" src="/images/edit.png" alt="edit note" title="edit note" /></a></td>
+        <td><a href="/delete/${note.id}"><img class="icon" src="/images/delete.png" alt="Eintrag löschen" title="Eintrag löschen" onclick="return confirm('Wollen Sie den Eintrag wirklich löschen?');"/></a></td>
+        <td><a href="/edit/${note.id}"><img class="icon" src="/images/edit.png" alt="Eintrag bearbeiten" title="Eintrag bearbeiten" /></a></td>
     </tr>`;
 }
 
