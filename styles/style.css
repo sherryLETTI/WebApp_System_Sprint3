@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sansserif;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 40px;
+}
+
+table{
+  background-color: #88b3dd;
+  border: 1px solid #262673;
+  border-collapse: collapse;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  color: black;
+}
+
+#inputPrintButton, #save, #reset, #backButton{
+  background-color: #caeeff;
+  border-color: black;
+  text-align: center;
+}
+
+#header_row{
+  font-weight: bold;
+  background-color:#4d8ccb;
+}
+
+tr{
+  border: 1px solid #262673;
+
+}
+
+td{
+  border: 1px solid #262673;
+  height:40px;
+  text-align: center;
+}
+
+#searchField, #printButton, #new, #addEdit, #back {
+  text-align: center;
+}
+
+#save {
+  margin-right: 20px;
+}
+
+img {
+  width: 20px;
+}
+
+textarea:invalid {
+   border: 1px solid red;
+   outline: none;
+}
+
+textarea:valid {
+  border: 1px solid green;
+  outline: none;
+}

@@ -1,19 +1,18 @@
-{
-	"lecturer": [{
+module.exports =[{
 			"id": "1",
 			"firstname": "Elmar",
 			"lastname": "Krainz",
 			"department": "Angewandte Informatik",
 			"office": "012",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "2",
-			"firstname": "Ulm",
-			"lastname": "Michael",
+			"firstname": "Michael",
+			"lastname": "Ulm",
 			"department": "Angewandte Informatik",
 			"office": "013",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "3",
@@ -21,7 +20,7 @@
 			"lastname": "Öffl",
 			"department": "Angewandte Informatik",
 			"office": "206",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "4",
@@ -29,7 +28,7 @@
 			"lastname": "Koitz-Hristov",
 			"department": "Angewandte Informatik",
 			"office": "",
-			"worktime": "Halftime"
+			"worktime": "Teilzeit"
 		},
 		{
 			"id": "5",
@@ -37,7 +36,7 @@
 			"lastname": "Eberhard",
 			"department": "Angewandte Informatik",
 			"office": "",
-			"worktime": "Halftime"
+			"worktime": "Teilzeit"
 		},
 		{
 			"id": "6",
@@ -45,7 +44,7 @@
 			"lastname": "Kofler",
 			"department": "Bauen, Energie & Gesellschaft",
 			"office": "301",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "7",
@@ -53,7 +52,7 @@
 			"lastname": "Trattnig",
 			"department": "Bauen, Energie & Gesellschaft",
 			"office": "124",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "8",
@@ -61,7 +60,7 @@
 			"lastname": "Pantucek",
 			"department": "Bauen, Energie & Gesellschaft",
 			"office": "216",
-			"worktime": "fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "9",
@@ -69,7 +68,7 @@
 			"lastname": "Aubauer",
 			"department": "Managment",
 			"office": "",
-			"worktime": "Halftime"
+			"worktime": "Teilzeit"
 		},
 		{
 			"id": "10",
@@ -77,7 +76,7 @@
 			"lastname": "Murg",
 			"department": "Managment",
 			"office": "416",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "11",
@@ -85,7 +84,7 @@
 			"lastname": "Friedl",
 			"department": "Managment",
 			"office": "406",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "12",
@@ -93,7 +92,7 @@
 			"lastname": "Steiner",
 			"department": "Engineering",
 			"office": "134",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "13",
@@ -101,7 +100,7 @@
 			"lastname": "Vogel",
 			"department": "Engineering",
 			"office": "147",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "14",
@@ -109,7 +108,7 @@
 			"lastname": "Friehmelt",
 			"department": "Engineering",
 			"office": "149",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		},
 		{
 			"id": "15",
@@ -117,7 +116,6 @@
 			"lastname": "Fischer",
 			"department": "Medien & Design",
 			"office": "011",
-			"worktime": "Fulltime"
+			"worktime": "Vollzeit"
 		}
-	]
-}
+	];
